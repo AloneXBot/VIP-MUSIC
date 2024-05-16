@@ -58,8 +58,6 @@ from VIPMUSIC.utils.inline import (
     queuemarkup,
     close_markup,
     stream_markup,
-    stream_markup2,
-    panel_markup_4,
 )
 from VIPMUSIC.utils.pastebin import VIPBin
 from VIPMUSIC.utils.stream.queue import put_queue, put_queue_index
